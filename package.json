@@ -1,0 +1,22 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "Weather App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eddie-Reta/Weather.git"
+  },
+  "author": "Eduardo RetaJr.\u001b[D\u001b[D\u001b[D \u001b[C\u001b[D\u001b[C Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eddie-Reta/Weather/issues"
+  },
+  "homepage": "https://github.com/Eddie-Reta/Weather#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
